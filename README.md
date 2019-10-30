@@ -23,3 +23,4 @@ If none, please use **Windows Subsystem for Linux**
 **Optional but important**
 * Stegsolve.jar
 * tcpdump
+* steghide
